@@ -12,7 +12,7 @@ https://github.com/bnb-chain/iavl/commit/324a19c80fccc57c8c7fe93014688b40afa91a6
 introduce of *IVAL* -> *IAVL* tree
 
 
-by the way, this binance guy(zjubfd) always writing fucking typos
+by the way, this binance guy always writing typos :)
 
 
 https://www.jianshu.com/p/9767f60d339a
